@@ -45,26 +45,26 @@
         <td><b>Variables</b></td>
           <td> A value that can change, depending on conditions or on information passed to the program.</td>
           <td> A variable is similar to the balance of a debit card. You start with a certain amount of money, and the amount of money changes depending on your withdrawls and deposits. </td>
-          <td> <img src="Variable" alt="Variable" style="width:128px;height:128px;"> </td>
-          <td>  </td>
+          <td> <img src="Variable.PNG" alt="Scratch_Variable" style="width:128px;height:128px;"> </td>
+          <td> <img src="Python_variable.PNG" alt="Python_Variable" style="width:128px;height:128px;"> </td>
         </tr>
 
         <!-- Fill in the row for Loops -->
         <tr>
           <td><b>Loops</b></td>
           <td> A sequence of instructions that is continually repeated until a certain condition is reached. </td>
+          <td> An alarm continues ringing until the user stops the alarm. </td>
           <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td> <img src="Python_loop.PNG" alt="Python_Loop" style="width:128px;height:128px;"> </td>
         </tr>
 
         <!-- Fill in the row for Conditionals -->
         <tr>
           <td><b>Conditionals</b></td>
+          <td> Perform different actions depending on whether a programmer-specified boolean condition evaluates to true or false. </td>
+          <td> An alarm rings when it is the time that the alarm is set at. </td>
           <td>  </td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td> <img src="Python_conditional.PNG" alt="Python_Conditional" style="width:128px;height:128px;"> </td>
         </tr>
 
         <!-- Fill in the row for Functions -->
