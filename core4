@@ -43,9 +43,9 @@
         <!-- Fill in the row for Variables -->
         <tr>
         <td><b>Variables</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td> A value that can change, depending on conditions or on information passed to the program.</td>
+          <td> A variable is similar to the balance of a debit card. You start with a certain amount of money, and the amount of money changes depending on your withdrawls and deposits. </td>
+          <td> <img src="Variable" alt="Variable" style="width:128px;height:128px;"> </td>
           <td>  </td>
         </tr>
 
