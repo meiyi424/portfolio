@@ -3,11 +3,15 @@
 <head>
 <style>
  header {
-     background: linear-gradient(to right, black 0%,white 100%) #1a8cff url("Lights.jpg") no-repeat right; 
+     background-color: #1a8cff
+    }
+  #pic { 
+     background-image: linear-gradient(to left, black 0%,white 100%), url("Lights.jpg");
      background-size: 300px 500px;
      background-blend-mode: color-dodge;
+     background-repeat: no-repeat;
+     background-position: right;
     }
- 
  h1 {
      color: black;
      font-family: comic Sans MS;
@@ -51,6 +55,7 @@
  <button type="button" onclick='document.getElementById("name").innerHTML="Meiji"'>Click me!</button>
  <p title style = "text-align:left;">Biography</p title>
    <p>Hello</p>
+  <div id="pic"> </div>
  </header>
  
  <div id="likes">
