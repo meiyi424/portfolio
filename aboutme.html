@@ -6,13 +6,13 @@
      background-color: #1a8cff;
     }
   #pic { 
-     width: 300px;
-     height: 500px;
-     background-image: linear-gradient(to right, black 0%,white 100%), url("Lights.jpg");
+     width: 1500px;
+     height: 250px;
+     background-image: linear-gradient(to left, black 0%,white 100%), url("Lights.jpg");
      background-size: 300px 500px;
      background-blend-mode: color-dodge;
      background-repeat: no-repeat;
-     background-position: right;
+     background-position: top right;
     }
  h1 {
      color: black;
@@ -53,11 +53,12 @@
  
 <body>
  <header>
+ <div id="pic">
  <h1 id="name">Meiyi Yu</h1>
  <button type="button" onclick='document.getElementById("name").innerHTML="Meiji"'>Click me!</button>
  <p title style = "text-align:left;">Biography</p title>
    <p>Hello</p>
-  <div id="pic"> </div>
+ </div>
  </header>
  
  <div id="likes">
